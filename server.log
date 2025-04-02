@@ -1,0 +1,18 @@
+2025-03-16T02:03:19.118Z [INFO]: Server is running at http://localhost:3000
+2025-03-16T02:03:36.739Z [INFO]: Calculation performed: 34 subtract 12 = 22
+2025-03-16T02:03:40.987Z [INFO]: Calculation performed: 34 multiply 12 = 408
+2025-03-16T02:03:44.494Z [INFO]: Calculation performed: 34 add 12 = 46
+2025-03-16T02:03:50.850Z [INFO]: Calculation performed: 34 divide 12 = 2.8333333333333335
+2025-03-16T02:25:29.942Z [INFO]: Server is running at http://localhost:3000
+2025-03-16T02:28:26.746Z [INFO]: Server is running at http://localhost:3000
+2025-03-16T02:31:36.789Z [INFO]: Server is running at http://localhost:3000
+2025-03-16T02:33:01.578Z [INFO]: Server is running at http://localhost:3040
+2025-03-16T02:43:07.143Z [ERROR]: Invalid numbers provided.
+2025-03-16T02:43:08.289Z [ERROR]: Invalid numbers provided.
+2025-03-16T02:46:07.235Z [INFO]: Calculation performed: 23 add 234 = 257
+2025-03-25T06:22:00.508Z [INFO]: Server is running at http://localhost:3040
+2025-03-25T06:22:20.395Z [INFO]: Calculation performed: 545 add 6 = 551
+2025-03-25T07:13:47.273Z [INFO]: Calculation performed: 23456 subtract 23 = 23433
+2025-03-25T07:14:08.913Z [ERROR]: Division by zero is not possible please enter correct number .
+2025-03-26T02:14:52.659Z [INFO]: Server is running at http://localhost:3040
+2025-03-26T02:19:14.699Z [INFO]: Server is running at http://localhost:3040

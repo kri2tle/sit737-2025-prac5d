@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  web:
+    image: mycalapp:latest
+    build: .
+    ports:
+      - "3040:3040"
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=production
+    restart: always  # Ensures the container restarts automatically if it crashes
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:3040"]
+      interval: 30s  # Perform the health check every 30 seconds
+      timeout: 10s   # Wait up to 10 seconds for a response
+      retries: 3     # Restart the container after 3 failed checks
